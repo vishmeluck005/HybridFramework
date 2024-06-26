@@ -2,6 +2,10 @@ package com.qa.Opencart.Pages;
 
 public class OrderPage {
 	
-	int m=0;
+	int price=0;
+	
+	public void getPrice() {
+		
+	}
 
 }
