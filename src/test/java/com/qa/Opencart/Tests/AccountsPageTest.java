@@ -78,8 +78,7 @@ public class AccountsPageTest extends BaseTest {
 			{"iMac","iMac"},
 			{"Apple","Apple Cinema 30\""},
 			{"Samsung","Samsung SyncMaster 941BW"},
-			{"Samsung","Samsung Galaxy Tab 10.1"},
-			{"Vishwa","Samsung Galaxy Tab 10.1"}
+			{"Samsung","Samsung Galaxy Tab 10.1"}
 		};
 	}
 	
